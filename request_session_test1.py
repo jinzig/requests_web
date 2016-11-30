@@ -6,7 +6,7 @@ url = 'https://www.linkedin.com/uas/login-submit'
 url_2 = 'https://www.linkedin.com/in/jinziguang?trk=hp-identity-name'
 login_data = {
     'session_key':'jinzig@gmail.com',
-    'session_password':'0451gznij'
+    'session_password':'12343543GFSGF3'
 }
 headers = {'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
 'Accept-Encoding':'gzip, deflate, sdch, br',
