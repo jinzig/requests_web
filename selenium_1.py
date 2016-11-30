@@ -17,4 +17,3 @@ browser.get('http://www.linkedin.com/nhome/')
 
 content = BeautifulSoup(browser.page_source, 'html.parser').prettify()
 print(content)
-# print(html)
